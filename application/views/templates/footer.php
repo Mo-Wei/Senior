@@ -13,14 +13,16 @@
         </div>
         <div class="socialize" data-aos="zoom-in">
             <li>
-                <a title="weibo" class="socialicon" href=""><i class="iconfont" aria-hidden="true">&#xe601;</i></a>
+                <a title="weibo" class="socialicon"><i class="iconfont" aria-hidden="true">&#xe601;</i></a>
+                <div class="wechatimg"><img src="statics/images/sina.jpg"></div>
             </li>
             <li class="wechat">
-                <a herf="javascript:void(0)" class="socialicon"><i class="iconfont">&#xe609;</i></a>
+                <a class="socialicon"><i class="iconfont">&#xe609;</i></a>
                 <div class="wechatimg"><img src="statics/images/wechat.jpg"></div>
             </li>
             <li>
-                <a title="QQ" class="socialicon" href="" target="_blank"><i class="iconfont" aria-hidden="true">&#xe616;</i></a>
+                <a title="QQ" class="socialicon" target="_blank"><i class="iconfont" aria-hidden="true">&#xe616;</i></a>
+                <div class="wechatimg"><img src="statics/images/qq.jpg"></div>
             </li>
         </div>
         <div class="cr">
