@@ -52,7 +52,7 @@
                                     <a href="link.html">Link</a>
                                 </li>
                                 <li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-252">
-                                    <a href="archives.html">归档</a>
+                                    <a href="archives.html">Other</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165">
                                             <a href="">theme</a>
@@ -69,7 +69,7 @@
                                     </ul>
                                 </li>
                                 <li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57">
-                                    <a href="gustbook.html">留言</a>
+                                    <a href="gustbook.html">Message</a>
                                 </li>
                             </ul>
                         </div>
@@ -89,7 +89,7 @@
                     <img class="custom-logo avatar" src="statics/images/omikron.png" />
                 </figure>
             </a>
-            <h3 class="blog-description"><p>This is senior</p></h3>
+            <h3 class="blog-description"><p>This is Senior</p></h3>
         </div>
         <div class="animation-header">
             <div class="decor-wrapper">

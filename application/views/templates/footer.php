@@ -16,7 +16,7 @@
                 <a title="weibo" class="socialicon" href=""><i class="iconfont" aria-hidden="true">&#xe601;</i></a>
             </li>
             <li class="wechat">
-                <a class="socialicon"><i class="iconfont">&#xe609;</i></a>
+                <a herf="javascript:void(0)" class="socialicon"><i class="iconfont">&#xe609;</i></a>
                 <div class="wechatimg"><img src="statics/images/wechat.jpg"></div>
             </li>
             <li>
